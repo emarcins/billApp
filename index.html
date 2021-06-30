@@ -8,35 +8,46 @@
 
     <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Montserrat:400,700&display=swap&subset=latin-ext"
         rel="stylesheet">
-    <link rel="stylesheet" href="./bill.css">
+    <link rel="stylesheet" href="../../CSS/bill.css">
 </head>
 
 <body>
 
     <div class="wrapper">
         <div class="top">
-            <h1>BillSplitter</h1>
-            <p>Podziel się rachunkiem ze znajomymi! ;)</p>
+            <h1>GoDutch</h1>
+            <p>Split the bill with your friends</p>
         </div>
         <div class="bottom">
-            <label for="price">Kwota do zapłaty:</label>
+            <label for="price">Bill price:</label>
             <input type="number" min="0" id="price">
 
-            <label for="people">Ilość osób:</label>
+            <label for="people">Number of people:</label>
             <input type="number" min="0" id="people">
 
-            <label for="tip">Napiwek</label>
+            <label for="tip">Tip</label>
             <select id="tip">
-                <option value="0" disabled selected>- wybierz napiwek -</option>
+                <option value="0" disabled selected>- choose your tip -</option>
                 <option value="0.05">5%</option>
                 <option value="0.1">10%</option>
                 <option value="0.15">15%</option>
                 <option value="0.2">20%</option>
             </select>
+            <label for="currency">Currency</label>
+            <select id="currency">
+                <option value="0" disabled selected>- choose your currency -</option>
+                <option value="USD">USD</option>
+                <option value="GBP">GBP</option>
+                <option value="EUR">EUR</option>
+                <option value="CHF">CHF</option>
+                <option value="PLN">PLN</option>
+            </select>
 
-            <button class="count">Oblicz</button>
+            <button class="count">Count</button>
+            <button class="clear">Clear</button>
             <p class="error"></p>
-            <p class="cost-info">Powinniście się złożyć po <span class="cost"></span>zł! :)</p>
+            <p class="cost-info">You should split your bill <span class="cost"></span> each!</p>
+            <p class="tip-info">Your tip is <span class="tip-value"></span></p>
         </div>
     </div>
 
