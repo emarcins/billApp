@@ -44,8 +44,7 @@ body {
 .top p {
     margin-top: 1rem;
     text-transform: uppercase;
-    transform: translateX(3rem);
-}
+    }
 
 .bottom {
     padding: 2rem 2rem;
@@ -106,4 +105,32 @@ input, select {
     color: rgb(185, 42, 7);
     text-align: center;
     font-weight: bold;
+}
+
+// ================================
+// MEDIA
+// ================================
+
+@media(max-width: 419px) {
+    .top p {
+        transform: translateX(3.2rem);
+    }
+}
+
+@media(min-width: 420px) {
+    .wrapper {
+        width: 40rem;
+    }
+}
+
+@media(min-width: 550px) {
+    .wrapper {
+        width: 50rem;
+    }
+}
+
+@media(min-width: 992px) {
+    .wrapper {
+        width: 60rem;
+    }
 }
