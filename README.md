@@ -15,16 +15,18 @@ You can use the **GoDutch** app on the desktops, tablets and mobile as well.
 # Tests
 I added end-to-end tests to my repository.
 </br>
-There are e2e tests in cypress.io and testing functionally of application. If you want to run the tests you have to install and run Cypress.io [Check Cypress.io](https://docs.cypress.io/)
+There are e2e tests in cypress.io and testing functionally of application. 
+</br>
+If you want to run the tests you have to install and run Cypress.io [Check Cypress.io](https://docs.cypress.io/)
 </br>
 The code you can find in Cypress/Integration/Bill folder (bill.spec.js file).
 
 # How it works?
-It helps you to organize your work and your daily tasks. 🗒️
+It helps you to share your bill with your friends. Moreover the app includes amount of tip and also you can choose the number of people who will pay the bill. 🗒️
 </br>
-To start just click on "Add Note" and select one of options and rembember to add the text and click "Save"!
+You have to fill in "Bill price" and number of people, how big is your tip and the currency. After that you click "Count" and it works!
 </br>
-You can delete every single note (click on "X" icon) but if want you can also click "Delete All" and clear the list of notes.
+If you make mistake or you want to clear your results just click "Clear".
 </br>
 
 The language of the app is english.
