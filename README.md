@@ -1,5 +1,5 @@
 # GoDutch
-Concise and small app who can help you to share the bills with your friends!
+Concise and small app who can help you to split the bills with your friends!
 </br>
 "Let's go Dutch" - is an english idiom which means sharing your bills with somebody in equal part.
 
@@ -24,7 +24,7 @@ The code you can find in Cypress/Integration/Bill folder (bill.spec.js file).
 # How it works?
 It helps you to share your bill with your friends. Moreover the app includes amount of tip and also you can choose the number of people who will pay the bill. 🗒️
 </br>
-You have to fill in "Bill price" and number of people, how big is your tip and the currency. After that you click "Count" and it works!
+You have to fill in "Bill price" and "Number of people", how big is your tip and the currency. After that you click "Count" and it works!
 </br>
 If you make mistake or you want to clear your results just click "Clear".
 </br>
@@ -32,7 +32,7 @@ If you make mistake or you want to clear your results just click "Clear".
 The language of the app is english.
 
 # How it looks? 🖼️
-![smartNotesApp](https://i.imgur.com/6GghG6p.png)
+![GoDutch](https://i.imgur.com/yhR8RUz.png)
 
 # Try the app!
 Don't hesitate and click the link below to try the smartNotes! ⤵️
