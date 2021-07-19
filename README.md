@@ -29,7 +29,7 @@ You have to fill in "Bill price" and "Number of people", how big is your tip and
 If you make mistake or you want to clear your results just click "Clear".
 </br>
 
-The language of the app is an english.
+The language of the app is English.
 
 # How it looks? 🖼️
 ![GoDutch](https://i.imgur.com/yhR8RUz.png)
