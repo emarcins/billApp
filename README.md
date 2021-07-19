@@ -6,7 +6,7 @@ Concise and small app who can help you to share the bills with yours friends!
 # Language and tools
 **GoDutch** is a brief and smart single page application. It was created in vanilla.js (pure javascript).
 </br>
-Style app is in scss in folder sass (GoDutch.scss file), main javascript file is in folder js (GoDutch.js file).
+Style app is in scss in folder scss (bill.scss file), main javascript file is in folder js (bill.js file).
 </br>
 The app is agree with the responsive web design. It works on most popular web browsers (like Chrome, Firefox, Safari, Opera etc.).
 </br>
