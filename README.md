@@ -1,5 +1,5 @@
 # GoDutch
-Concise and small app who can help you to split the bills with your friends!
+Concise and small app who can help you to split the bills with your friends! :money_with_wings:
 </br>
 "Let's go Dutch" - is an english idiom which means sharing your bills with somebody in equal part.
 
@@ -10,10 +10,10 @@ Style app is in scss in folder scss (bill.scss file), main javascript file is in
 </br>
 The app is agree with the responsive web design. It works on most popular web browsers (like Chrome, Firefox, Safari, Opera etc.).
 </br>
-You can use the **GoDutch** app on the desktops, tablets and mobile as well.
+You can use the **GoDutch** app on the desktops, tablets and mobile as well. :mag:
 
 # Tests
-I added end-to-end tests to my repository.
+I added end-to-end tests to my repository. :memo:
 </br>
 There are e2e tests in cypress.io and testing functionally of application. 
 </br>
@@ -35,7 +35,7 @@ The language of the app is english.
 ![GoDutch](https://i.imgur.com/yhR8RUz.png)
 
 # Try the app!
-Don't hesitate and click the link below to try the smartNotes! ⤵️
+Don't hesitate and click the link below to try the GoDutch! ⤵️
 </br>
-[Check out the smartNotes app](https://emarcins.github.io/smartNotes/)
+[Check out the GoDutch app!](https://emarcins.github.io/billApp/)
 
