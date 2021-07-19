@@ -1,5 +1,5 @@
 # GoDutch
-Concise and small app who can help you to share the bills with yours friends!
+Concise and small app who can help you to share the bills with your friends!
 </br>
 "Let's go Dutch" - is an english idiom which means sharing your bills with somebody in equal part.
 
@@ -13,11 +13,11 @@ The app is agree with the responsive web design. It works on most popular web br
 You can use the **GoDutch** app on the desktops, tablets and mobile as well.
 
 # Tests
-I added tests to my repository.
+I added end-to-end tests to my repository.
 </br>
-There are e2e tests in cypress and testing functionally of application. If you want to run the tests you have to install and run Cypress.io.
+There are e2e tests in cypress.io and testing functionally of application. If you want to run the tests you have to install and run Cypress.io [Check Cypress.io](https://docs.cypress.io/)
 </br>
-The code you can find in Cypress/Integration folder (smartNotest.spec.js file) and in Cypress/Support folder (utils.js file).
+The code you can find in Cypress/Integration/Bill folder (bill.spec.js file).
 
 # How it works?
 It helps you to organize your work and your daily tasks. 🗒️
